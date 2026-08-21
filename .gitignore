@@ -58,5 +58,5 @@ Thumbs.db
 *.temp
 *.log
 
-*.imi
-*.idea/
+*.iml
+.idea/
